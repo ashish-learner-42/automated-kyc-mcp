@@ -1,0 +1,4 @@
+[ui]
+# "minimal" removes the Deploy button while keeping the settings menu.
+# Other options: "auto" (default), "developer" (all tools), "viewer" (no toolbar at all)
+toolbarMode = "minimal"

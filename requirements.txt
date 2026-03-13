@@ -1,0 +1,4 @@
+fastmcp>=0.1.0
+pypdf>=3.0.0
+streamlit>=1.28.0
+pandas>=2.0.0

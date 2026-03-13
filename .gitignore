@@ -1,0 +1,12 @@
+# Runtime log — regenerated on every run
+kyc_app.log
+
+# SQLite database — contains customer data and PII
+kyc_database.db
+
+# Python virtual environment
+.venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
